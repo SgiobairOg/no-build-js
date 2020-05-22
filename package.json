@@ -1,6 +1,6 @@
 {
   "name": "no-build-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An investigation into buildless development.",
   "main": "index.js",
   "scripts": {
