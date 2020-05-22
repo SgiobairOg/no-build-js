@@ -1,0 +1,22 @@
+{
+  "name": "no-build-ts",
+  "version": "0.0.1",
+  "description": "An investigation into buildless development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgiobairOg/no-build-js.git"
+  },
+  "keywords": [
+    "buildless"
+  ],
+  "author": "Jason Wilson <jason@wilsons.io>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/SgiobairOg/no-build-js/issues"
+  },
+  "homepage": "https://github.com/SgiobairOg/no-build-js#readme"
+}
