@@ -4,7 +4,9 @@
   "description": "An investigation into buildless development.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "es-dev-server --app-index src/index.html --watch --open",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "snowpack"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,11 @@
   },
   "homepage": "https://github.com/SgiobairOg/no-build-js#readme",
   "devDependencies": {
+    "es-dev-server": "^1.50.8",
     "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "lit-element": "^2.3.1",
+    "snowpack": "^1.7.1"
   }
 }
