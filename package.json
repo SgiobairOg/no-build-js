@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SgiobairOg/no-build-js/issues"
   },
-  "homepage": "https://github.com/SgiobairOg/no-build-js#readme"
+  "homepage": "https://github.com/SgiobairOg/no-build-js#readme",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
 }
